@@ -1,0 +1,7 @@
+<suite name="Tests">
+    <test name="API Tests">
+        <classes>
+            <class name="org.hsqa.tests.PetCrudTests"/>
+        </classes>
+    </test>
+</suite>
